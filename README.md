@@ -53,3 +53,6 @@ npm run serve
 ```
 npm run test:unit
 ```
+
+### Similar REST API can be located at
+https://github.com/lloydamt/calculator-be
